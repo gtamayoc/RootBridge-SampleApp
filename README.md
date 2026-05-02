@@ -1,4 +1,18 @@
-# 🛡️ RootBridge Sample App
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gtamayoc/RootBridge-Kotlin/refs/heads/REFACTOR/docs/assets/logo.png" alt="RootBridge-SampleApp Logo" width="180"/>
+  
+  <h1>🛡️ RootBridge Sample App</h1>
+  <p><strong>Controlled Target for Memory Scanning & Manipulation Testing</strong></p>
+
+  <p>
+    <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-1.9.0-blue.svg?logo=kotlin" alt="Kotlin"></a>
+    <a href="https://developer.android.com/jetpack/compose"><img src="https://img.shields.io/badge/Compose-Material%203-4CAF50.svg?logo=android" alt="Jetpack Compose"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Architecture-MVVM-orange.svg" alt="Architecture"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Status-Educational-brightgreen.svg" alt="Status"></a>
+  </p>
+</div>
+
+---
 
 > A lightweight, purposely vulnerable Android application designed as a controlled target for real-time memory scanning and manipulation testing.
 
